@@ -14,7 +14,7 @@ body {
 .texttoo {
   text-align: center;
   color: #fff;
-  top: 80%;
+  margin-top: 80%;
 }
 
 .container {
