@@ -11,6 +11,11 @@ body {
   color: #fff;
 }
 
+.texttoo {
+  text-align: center;
+  color: #fff;
+}
+
 .container {
   position: absolute;
   top: 50%;
