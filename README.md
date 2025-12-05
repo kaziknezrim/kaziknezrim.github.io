@@ -1,1 +1,0 @@
-# kaziknezrim.github.io
